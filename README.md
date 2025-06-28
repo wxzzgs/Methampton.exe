@@ -1,0 +1,2 @@
+# Methampton.exe
+another ransomware
