@@ -1,6 +1,8 @@
 # Methampton.exe
 another ransomware
 
+Note from Ocean = We have removed this due to a law that says "You can go to jail for leaking IP." Sunset on 7/2/2025 GoodBye
+
 some one sent you this and you ran it? heres out to stop the ransomware from infecting you
  
 🛑 1. Don’t open or run the file
